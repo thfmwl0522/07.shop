@@ -24,7 +24,7 @@ firebase logout
 ```
 
 ## 3. firebase 프로젝트 만들기
-- 폴더 확인 [C:\Users\myhome\Desktop\sol\00.cdn]
+- 폴더 확인 [C:\Users\1\Documents\임덕규\00.cdn]
 ```bash
 firebase init
 
