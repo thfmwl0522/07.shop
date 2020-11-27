@@ -1,7 +1,7 @@
 {
 	"prds": [
 		{"id": 1, "title": "Yovbeglass Side Chair", "brand": "DEMO-BASEL2", "price": "579.00", 
-			"src": ["../img/chair-01-f.jpg", "../img/chair-01-b.jpg"]},
+			"src": ["../img/jestina/bag-01.png", "../img/jestina/bag-001.png"]},
 		{"id": 1, "title": "Yood Side Chair", "brand": "DEMO-BASEL", "price": "679.00", 
 			"src": ["../img/chair-02-f.jpg", "../img/chair-02-b.jpg"]},
 		{"id": 1, "title": "Yovded Plastic Armchair", "brand": "DEMO-BASEL2", "price": "499.00", 
