@@ -13,7 +13,7 @@ font-family: 'Aref Ruqaa', serif;
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 html, body {font-size: 16px; font-family: 'Rubik', sans-serif;}
 .wrapper {width: 1100px; margin: 0 auto;}
@@ -35,7 +35,7 @@ html, body {font-size: 16px; font-family: 'Rubik', sans-serif;}
 .title-bars {text-align: center; font-size: 1rem; padding: 4em 0 2em 0; margin: auto;}
 .title-bars > .title-sm {color: #999; letter-spacing: 0.35em; font-size: 0.75em; font-weight: normal;}
 .title-bars > .title {font-size: 1.5em; font-weight: 400; padding: 0.75em; color: #333;}
-.title-bars > .title-green {width: 40px; border: 1px solid #189954; margin: auto;}
+.title-bars > .title-green {width: 40px; border: 1px solid #ec5050; margin: auto;}
 .title-bars > .title-desc {font-size: 0.875em; color: #666;}
 
 .sub-slide {width: 100%; margin: auto;}
@@ -290,12 +290,11 @@ html, body {font-size: 16px; font-family: 'Rubik', sans-serif;}
 .cate-wrapper .bt-read:hover {background-color: #4ebe7d;}
 
 /**************** .branch-wrapper ******************/
-.branch-wrapper {background: url(../img/branch-bg.jpg) no-repeat center -10vh; background-size: cover; padding-top: 2em;}
-.branch-wrapper .title-bars .title {color: #444;}
-.branch-wrapper .title-bars .title-sm {color: #4ebe7d;}
-.branch-wrapper .branch-wrap {display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center; margin-top: 2em; padding: 1.5em; background-color: #fff;}
+.branch-wrapper {background: url(../img/jestina/01_bt_pc_01.jpg) no-repeat center; opacity: 0.8; background-size: cover; padding-top: 2em;}
+.branch-wrapper .title-bars .title {font-family: 'Pacifico', cursive; font-style: italic; transform: rotate(-10deg); font-size: 5em; color: rgba(255, 0, 179, 0.644);}
+.branch-wrapper .branch-wrap {display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center; margin-top: 2em; padding: 1.5em; background-color: rgb(243, 243, 243);}
 .branch-wrapper .branch {flex: 24% 0 0; position: relative; overflow: hidden; cursor: pointer;}
-.branch-wrapper .branch img {transition: all 1.5s;}
+.branch-wrapper .branch img {transition: all 1s;}
 .branch-wrapper .branch:hover img {transform: scale(1.2);}
 .branch-wrapper .branch .bt-link {position: absolute; outline: none; border: none; color: #666; padding: 0.325em 1.25em 0.5em 1.25em; font-size: 1.25em; font-family: 'Aref Ruqaa', serif; font-style: italic; letter-spacing: 2px; background-color: #f8f8f8; bottom: 1em; left: 50%; transform: translateX(-50%); box-shadow: 1px 1px 3px rgba(0,0,0,0.3);}
 
@@ -306,7 +305,7 @@ html, body {font-size: 16px; font-family: 'Rubik', sans-serif;}
 .blog-wrapper .blog .img-wrap > .date-wrap {position: absolute; background-color: #f8f8f8; top: 12px; left: 12px; width: 50px; height: 50px; display: flex; flex-direction: column; align-items: center;}
 .blog-wrapper .blog .img-wrap .date {font-size: 1.25em;}
 .blog-wrapper .blog .img-wrap .month {font-size: 0.75em;}
-.blog-wrapper .blog .img-wrap > .tag {position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); font-size: 0.75em; background-color: #277045; color: #f8f8f8; padding: 0.25em 0.5em;}
+.blog-wrapper .blog .img-wrap > .tag {position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); font-size: 0.75em; background-color: #db5895; color: #f8f8f8; padding: 0.25em 0.5em;}
 .blog-wrapper .blog .title {font-size: 1.5em; font-family: 'Aref Ruqaa', serif; padding: 0.5em 0; transition: all 0.5s;}
 .blog-wrapper .blog .title:hover {color: #339059;}
 .blog-wrapper .blog .bt-comment {color: #999; font-style: italic; font-size: 0.875em;}

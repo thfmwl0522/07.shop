@@ -521,10 +521,6 @@ function onBlogLoad(r) {
 		html  = '<div class="blog slide swiper-slide">';
 		html += '	<div class="img-wrap">';
 		html += '		<img src="'+r.blogs[i].src+'" alt="blog" class="w-100">';
-		html += '		<div class="date-wrap">';
-		html += '			<div class="date">'+r.blogs[i].date+'</div>';
-		html += '			<div class="month">'+r.blogs[i].month+'</div>';
-		html += '		</div>';
 		html += '		<div class="tag">'+r.blogs[i].tag+'</div>';
 		html += '	</div>';
 		html += '	<h3 class="title">'+r.blogs[i].title+'</h3>';

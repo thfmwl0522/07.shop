@@ -1,16 +1,16 @@
 {
 	"prds": [
 		{"id": 1, "title": "Yovbeglass Side Chair", "brand": "DEMO-BASEL2", "price": "579.00", 
-			"src": ["../img/jestina/bag-01.png", "../img/jestina/bag-001.png"]},
+			"src": ["../img/jestina/bag-01.jpg", "../img/jestina/bag-001.jpg"]},
 		{"id": 1, "title": "Yood Side Chair", "brand": "DEMO-BASEL", "price": "679.00", 
-			"src": ["../img/chair-02-f.jpg", "../img/chair-02-b.jpg"]},
+			"src": ["../img/jestina/bag-02.jpg", "../img/jestina/bag-002.jpg"]},
 		{"id": 1, "title": "Yovded Plastic Armchair", "brand": "DEMO-BASEL2", "price": "499.00", 
-			"src": ["../img/chair-03-f.jpg", "../img/chair-03-b.jpg"]},
+			"src": ["../img/jestina/bag-003.jpg", "../img/jestina/bag-03.jpg"]},
 		{"id": 1, "title": "Yovlastic Side Chair", "brand": "DEMO-BASEL2", "price": "449.00", 
-			"src": ["../img/chair-04-f.jpg", "../img/chair-04-b.jpg"]},
+			"src": ["../img/jestina/bag-04.jpg", "../img/jestina/bag-004.jpg"]},
 		{"id": 1, "title": "Yrmchair Locker Base", "brand": "DEMO-BASEL", "price": "659.00", 
-			"src": ["../img/chair-05-f.jpg", "../img/chair-05-b.jpg"]},
+			"src": ["../img/jestina/ring-01.jpg", "../img/jestina/ring-001.jpg"]},
 		{"id": 1, "title": "Yovded Fiberglass Armchair", "brand": "DEMO-BASEL2", "price": "570.00", 
-			"src": ["../img/chair-06-f.jpg", "../img/chair-06-b.jpg"]}
+			"src": ["../img/jestina/acc-01.jpg", "../img/jestina/acc-001.jpg"]}
 	]
 }

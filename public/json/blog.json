@@ -1,9 +1,9 @@
 {
 	"blogs": [
-		{"id": 1, "title": "Venenatis veulum peus", "tag": "Lifestyle", "src": "../img/blog-1.jpg", "date": "5", "month": "Dec", "content": "Sociosqu scele risque aliquet penatibus pretium vesti bulum imperdiet ad metus a tempus congue a venenatis condi mentum parturient dis"},
-		{"id": 2, "title": "Hac fames tempor", "tag": "Lifestyle", "src": "../img/blog-2.jpg", "date": "4", "month": "Dec", "content": "Sociosqu scele risque aliquet penatibus pretium vesti bulum imperdiet ad metus a tempus congue a venenatis condi mentum parturient dis"},
-		{"id": 3, "title": "Dapibus a at gravida", "tag": "Lifestyle", "src": "../img/blog-3.jpg", "date": "4", "month": "Dec", "content": "Sociosqu scele risque aliquet penatibus pretium vesti bulum imperdiet ad metus a tempus congue a venenatis condi mentum parturient dis"},
-		{"id": 4, "title": "Urna ligula inceptos", "tag": "Lifestyle", "src": "../img/blog-4.jpg", "date": "30", "month": "Nov", "content": "Sociosqu scele risque aliquet penatibus pretium vesti bulum imperdiet ad metus a tempus congue a venenatis condi mentum parturient dis"},
-		{"id": 5, "title": "Condintum intelger ridis", "tag": "Lifestyle", "src": "../img/blog-5.jpg", "date": "28", "month": "Nov", "content": "Sociosqu scele risque aliquet penatibus pretium vesti bulum imperdiet ad metus a tempus congue a venenatis condi mentum parturient dis"}
+		{"id": 1, "title": "인플루언서 이가흔", "tag": "Lifestyle", "src": "../img/jestina/blog-1.jpg", "content": "#제이에스티나 #제이에스티나가방 #파이백 #크로스백 @lee_gaheun #이가흔"},
+		{"id": 2, "title": "인플루언서 정송이", "tag": "Lifestyle", "src": "../img//jestina/blog-2.jpg", "content": "#제이에스티나 #제이에스티나가방 #조엘이지새들백 #새들백 #크로스백 #숄더백 @__yyyj #정송이"},
+		{"id": 3, "title": "인플루언서 한슬", "tag": "Lifestyle", "src": "../img/jestina/blog-3.jpg", "content": "#제이에스티나 #제이에스티나가방 #사라백 #토드백 #숄더백 #@life_seul #한슬"},
+		{"id": 4, "title": "인플루언서 주연정", "tag": "Lifestyle", "src": "../img/jestina/blog-4.jpg", "content": "#제이에스티나 #제이에스티나가방 #조엘퀼팅백 #호보백 #여름아이템 #@y__eonj #주연정"},
+		{"id": 5, "title": "인플루언서 이채은", "tag": "Lifestyle", "src": "../img/jestina/blog-5.jpg", "content": "#제이에스티나 #제이에스티나가방 #사라토트백 #크로스백 #여름아이템 #@c_eeeun #이채은"}
 	]
 }
