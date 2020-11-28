@@ -236,7 +236,7 @@ html, body {font-size: 16px; font-family: 'Rubik', sans-serif;}
 .middle-wrapper .middle {flex: 23% 0 0; overflow: hidden; cursor: pointer; position: relative;}
 .middle-wrapper .middle:nth-child(2) {flex: 48.2% 0 0;}
 .middle-wrapper .middle img {transition: all 0.75s;}
-.middle-wrapper .middle:hover img {transform: scale(1.2);}
+.middle-wrapper .middle:hover img {transform: scale(1.1);}
 
 .middle-wrapper .middle .title-wrap {position: absolute; bottom: 1em; left: 1em; background-color: rgba(0,0,0,0.6); color: #f8f8f8; padding: 1em 2em;}
 .middle-wrapper .middle .title-wrap .title {font-family: 'Aref Ruqaa', serif; font-size: 1.5em; border-bottom: 1px solid #f8f8f8; line-height: 1.5em; white-space: nowrap;}
@@ -321,7 +321,6 @@ html, body {font-size: 16px; font-family: 'Rubik', sans-serif;}
 
 
 /**************** .blog-wrapper ******************/
-.blog-wrapper {}
 .blog-wrapper .blog {position:relative;}
 .blog-wrapper .blog .img-wrap > .date-wrap {position: absolute; background-color: #f8f8f8; top: 12px; left: 12px; width: 50px; height: 50px; display: flex; flex-direction: column; align-items: center;}
 .blog-wrapper .blog .img-wrap > .tag {position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); font-size: 0.75em; background-color: #db5895; color: #f8f8f8; padding: 0.25em 0.5em;}
