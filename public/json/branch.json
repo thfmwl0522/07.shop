@@ -1,8 +1,8 @@
 {
 	"branchs": [
-		{"id": 1, "title": "Furniture", "src": "../img/jestina/bea-1.jpg"},
-		{"id": 2, "title": "Accessories", "src": "../img/jestina/bea-2.jpg"},
-		{"id": 3, "title": "Synthesizers", "src": "../img/jestina/bea-3.jpg"},
-		{"id": 4, "title": "Watches", "src": "../img/jestina/bea-4.jpg"}
+		{"id": 1, "title": "조엘 베일 스틱", "src": "../img/jestina/bea-1.jpg"},
+		{"id": 2, "title": "주얼 디파인 아이 팔레트", "src": "../img/jestina/bea-2.jpg"},
+		{"id": 3, "title": "컬러 리퀴드", "src": "../img/jestina/bea-3.jpg"},
+		{"id": 4, "title": "주얼 텐션 립 벨벳", "src": "../img/jestina/bea-4.jpg"}
 	]
 }

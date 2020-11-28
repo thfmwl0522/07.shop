@@ -515,7 +515,6 @@ function onBlogLoad(r) {
 		html += '		<div class="tag">'+r.blogs[i].tag+'</div>';
 		html += '	</div>';
 		html += '	<h3 class="title">'+r.blogs[i].title+'</h3>';
-		html += '	<button class="bt-comment">Leave a comment</button>';
 		html += '	<p class="content">'+r.blogs[i].content+'</p>';
 		html += '	<button class="bt-read">Rede More</button>';
 		html += '</div>';
