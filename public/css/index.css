@@ -235,7 +235,7 @@ html, body {font-size: 16px; font-family: 'Rubik', sans-serif;}
 .middle-wrapper {display: flex; margin: 3em auto; justify-content: space-between;}
 .middle-wrapper .middle {flex: 23% 0 0; overflow: hidden; cursor: pointer; position: relative;}
 .middle-wrapper .middle:nth-child(2) {flex: 48.2% 0 0;}
-.middle-wrapper .middle img {transition: all 0.75s;}
+.middle-wrapper .middle img {transition: all 0.7s;}
 .middle-wrapper .middle:hover img {transform: scale(1.1);}
 
 .middle-wrapper .middle .title-wrap {position: absolute; bottom: 1em; left: 1em; background-color: rgba(0,0,0,0.6); color: #f8f8f8; padding: 1em 2em;}
@@ -254,8 +254,8 @@ html, body {font-size: 16px; font-family: 'Rubik', sans-serif;}
 .middle-wrapper2 {display: flex; margin: 3em auto; justify-content: space-between;}
 .middle-wrapper2 .middle {flex: 23% 0 0; overflow: hidden; cursor: pointer; position: relative;}
 .middle-wrapper2 .middle:nth-child(3) {flex: 48.2% 0 0;}
-.middle-wrapper2 .middle img {transition: all 0.75s;}
-.middle-wrapper2 .middle:hover img {transform: scale(1.2);}
+.middle-wrapper2 .middle img {transition: all 0.7s;}
+.middle-wrapper2 .middle:hover img {transform: scale(1.1);}
 
 .middle-wrapper2 .middle .title-wrap {position: absolute; bottom: 1em; left: 1em; background-color: rgba(0,0,0,0.6); color: #f8f8f8; padding: 1em 2em;}
 .middle-wrapper2 .middle .title-wrap .title {font-family: 'Aref Ruqaa', serif; font-size: 1.5em; border-bottom: 1px solid #f8f8f8; line-height: 1.5em; white-space: nowrap;}
