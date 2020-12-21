@@ -1,5 +1,9 @@
 {
 	"prds": [
+		{"id": 1, "title": "DREAM COIN 반지", "brand": "(JJJTRQ0BF112R4120)", "price": "195.500", 
+			"src": ["../img/jestina/ring-01.jpg", "../img/jestina/ring-001.jpg"]},
+		{"id": 1, "title": "Je'te 팔찌", "brand": "(JJJTB00BF125SC7S0)", "price": "136.000", 
+			"src": ["../img/jestina/acc-01.jpg", "../img/jestina/acc-001.jpg"]},
 		{"id": 1, "title": "NEW BELLA 숄더백", "brand": "(JHTCHA0BF082BK010)", "price": "198.000", 
 			"src": ["../img/jestina/bag-01.jpg", "../img/jestina/bag-001.jpg"]},
 		{"id": 1, "title": "NEW BELLA 쇼퍼백", "brand": "(JHTCHC0BF081BL010)", "price": "238.400", 
@@ -7,10 +11,6 @@
 		{"id": 1, "title": "JOELLE 스마트크로스 BK", "brand": "(JSNCSZ0BF850BK010)", "price": "78.400", 
 			"src": ["../img/jestina/bag-003.jpg", "../img/jestina/bag-03.jpg"]},
 		{"id": 1, "title": "BELL MD 백팩 BK", "brand": "(JHNEHB0BF003BK980)", "price": "190.400", 
-			"src": ["../img/jestina/bag-04.jpg", "../img/jestina/bag-004.jpg"]},
-		{"id": 1, "title": "DREAM COIN 반지", "brand": "(JJJTRQ0BF112R4120)", "price": "195.500", 
-			"src": ["../img/jestina/ring-01.jpg", "../img/jestina/ring-001.jpg"]},
-		{"id": 1, "title": "Je'te 팔찌", "brand": "(JJJTB00BF125SC7S0)", "price": "136.000", 
-			"src": ["../img/jestina/acc-01.jpg", "../img/jestina/acc-001.jpg"]}
+			"src": ["../img/jestina/bag-04.jpg", "../img/jestina/bag-004.jpg"]}
 	]
 }

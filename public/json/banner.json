@@ -1,6 +1,6 @@
 {
 	"banners": [
-		{"id": 1, "src": "../img/jestina/slider-01.jpg", "slogan": "2020 PINK PROMOTION", "title": "MERRY PINKMAS", "link": "#"},
+		{"id": 1, "src": "../img/jestina/slider-011.jpg", "slogan": "J FESTIVAL", "title": "MERRY PINKMAS", "link": "#"},
 		{"id": 2, "src": "../img/jestina/slider-02.jpg", "slogan": "", "title": "", "link": "#"},
 		{"id": 3, "src": "../img/jestina/web_main.jpg", "slogan": "J FESTIVAL", "title": "HAPPY PRESENT", "link": "#"}
 	]
